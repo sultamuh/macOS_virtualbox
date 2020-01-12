@@ -1,5 +1,7 @@
+**NOTE: THE .vmdk FILE IS NOT MINE, JUST USING IT FOR THE INSTRUCTIONS!**
+
 * DOWNLOAD AND INSTALL VIRTUALBOX AND VIRTUALBOX EXTENSION PACK [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-* DOWNLOAD THESE FILES BEFORE YOU BEGIN AND SAVE THEM TO YOUR DOCUEMNTS [macOS Stuff]().
+* DOWNLOAD THESE FILES BEFORE YOU BEGIN AND SAVE THEM TO YOUR DOCUEMNTS [macOS Stuff](https://drive.google.com/file/d/1lqyLtjSn83flMz1zwED3sxmNczOf3ccS/view).
 
 # MacOS Mojave 10.14 on Virtualbox
 
@@ -45,7 +47,7 @@
 
 ![](https://github.com/sultamuh/macOS_virtualbox/blob/master/images/10.png)
 
-11. Go to your "Documents" folder where you saved the downloaded files find and run the script "virtualbox.bat" as administrator.
+11. Save the script [virtualbox.bat](https://github.com/sultamuh/macOS_virtualbox/blob/master/virtualbox.bat) and run as administrator.
 
 ---
 
