@@ -3,7 +3,7 @@
 * DOWNLOAD AND INSTALL VIRTUALBOX AND VIRTUALBOX EXTENSION PACK [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 * DOWNLOAD THESE FILES BEFORE YOU BEGIN AND SAVE THEM TO YOUR DOCUEMNTS [macOS Stuff](https://drive.google.com/file/d/1lqyLtjSn83flMz1zwED3sxmNczOf3ccS/view).
 
-# MacOS Mojave 10.14 on Virtualbox
+# MacOS Mojave 10.14 on Virtualbox (only Xcode version 10 or lower will work)
 
 #### VIRTUALBOX IMAGE CREATION AND SETUP
 
