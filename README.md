@@ -2,6 +2,7 @@
 
 * DOWNLOAD AND INSTALL VIRTUALBOX AND VIRTUALBOX EXTENSION PACK [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 * DOWNLOAD THESE FILES BEFORE YOU BEGIN AND SAVE THEM TO YOUR DOCUEMNTS [macOS Stuff](https://drive.google.com/file/d/1lqyLtjSn83flMz1zwED3sxmNczOf3ccS/view).
+* DOWNLOAD AND INSTALL WINRAR (64-BIT) [Winrar](https://www.rarlab.com/download.htm).
 
 # MacOS Mojave 10.14 on Virtualbox (only Xcode version 10 or lower will work)
 
@@ -47,7 +48,7 @@
 
 ![](https://github.com/sultamuh/macOS_virtualbox/blob/master/images/10.png)
 
-11. Save the script [virtualbox.bat](https://github.com/sultamuh/macOS_virtualbox/blob/master/virtualbox.bat) and run as administrator.
+# 11. Save the script [virtualbox.bat](https://github.com/sultamuh/macOS_virtualbox/blob/master/virtualbox.bat) and run as administrator.
 
 ---
 
